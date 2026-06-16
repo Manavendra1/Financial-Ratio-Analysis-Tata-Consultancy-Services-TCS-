@@ -4,16 +4,6 @@ Welcome to a deep dive into the financial health of Tata Consultancy Services (T
 
 The Analysts Behind the Data
 
-This comprehensive breakdown was researched and compiled by:
-
-Manavendra Singh (MDB25045) 
-
-Aabda Khatoon (MDB25046) 
-
-Kislay Yadav (MDB25048) 
-
-Rinki Parihar (MDB25049) 
-
 The Big Picture: Why is TCS a Powerhouse?
 Our analysis reveals a fundamentally robust company with zero reliance on debt, exceptional profit-making abilities, and a massive commitment to returning cash to its shareholders. Here is the plain-English breakdown of our findings:
 
